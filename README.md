@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harithikchoudhary
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development and working on GenerativeAi Projects 
 - 📫 How to reach me - harithikchoudhary6@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Also a gamer
